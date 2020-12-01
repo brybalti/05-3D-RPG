@@ -1,6 +1,14 @@
-# Godot-Project-Template
+# Project-05-3D-RPG
+Project for MSCH-C220, 11 November 2020
 
-This is an empty Godot project that can be used as a starting place for Godot repositories. After creating and cloning the repository, download this as a zip file. Unzip it and copy the files into the repository folder. You should then be able to import the project.godot file (in the repository folder) as a project in Godot. Make sure you change the project name in the Project Settings.
+A simple 3D shooter with a low poly design
 
 ## Implementation
-Created in Godot 3.2.2
+Built using Godot 3.2.2
+
+## Future Development
+None
+
+## Created by 
+Bryant Balting
+
